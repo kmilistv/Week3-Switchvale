@@ -1,0 +1,16 @@
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\bin\Debug\net5.0\CatsandDogs.exe
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\bin\Debug\net5.0\CatsandDogs.deps.json
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\bin\Debug\net5.0\CatsandDogs.runtimeconfig.json
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\bin\Debug\net5.0\CatsandDogs.runtimeconfig.dev.json
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\bin\Debug\net5.0\CatsandDogs.dll
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\bin\Debug\net5.0\ref\CatsandDogs.dll
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\bin\Debug\net5.0\CatsandDogs.pdb
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.csproj.AssemblyReference.cache
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.AssemblyInfoInputs.cache
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.AssemblyInfo.cs
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.csproj.CoreCompileInputs.cache
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.dll
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\ref\CatsandDogs.dll
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.pdb
+C:\Users\KristinaMilistver\Kool\VIII semster\Programmeerimise algkursus\PersonalityTest\CatsandDogs\obj\Debug\net5.0\CatsandDogs.genruntimeconfig.cache
